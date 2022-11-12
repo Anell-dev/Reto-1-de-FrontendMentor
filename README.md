@@ -1,6 +1,15 @@
+# Carta Informativa para producto
+
 ## Bienvenido! 👋
 
 - Aqui puedes ver el resultado final -> [https://anell-dev.github.io/Reto-1-de-FrontendMentor/](https://anell-dev.github.io/Reto-1-de-FrontendMentor/)
+
+### El reto
+
+Sus usuarios deben ser capaces de:
+
+- Ver el diseño óptimo según el tamaño de pantalla de su dispositivo
+- Ver estados de desplazamiento y enfoque para elementos interactivos
 
 ### Captura de pantalla
 
