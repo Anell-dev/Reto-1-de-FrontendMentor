@@ -28,4 +28,6 @@ Sus usuarios deben ser capaces de:
 
 ## Autor
 
-- Frontend Mentor - [@Anell-dev](https://www.frontendmentor.io/profile/Anell-dev)
+- Perfil en Instagram - [@anel.dev](https://www.instagram.com/anel.dev/)
+- Perfil en GitHub - [@Anell-dev](https://github.com/Anell-dev)
+- Perfil en FrontendMentor - [@Anell-dev](https://www.frontendmentor.io/profile/Anell-dev)
