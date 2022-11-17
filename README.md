@@ -1,8 +1,8 @@
-# Carta Informativa para producto
+# Tarjeta Informativa para producto
 
 ## Bienvenido! 👋
 
-- Aqui puedes ver el resultado final -> [https://anell-dev.github.io/Reto-1-de-FrontendMentor/](https://anell-dev.github.io/Reto-1-de-FrontendMentor/)
+- Aqui puedes ver el resultado final -> [https://anell-dev.github.io/Tarjeta-informativa-para-producto/](https://anell-dev.github.io/Tarjeta-informativa-para-producto/)
 
 ### El reto
 
@@ -13,12 +13,12 @@ Sus usuarios deben ser capaces de:
 
 ### Captura de pantalla
 
-![](./images/reto%201%20-%20resultado%20final.png)
+![](./screenshots/reto%201%20-%20resultado%20final.png)
 
 ### Links
 
-- Aqui puedes ver mi solucion: [https://github.com/Anell-dev/Reto-1-de-FrontendMentor](https://github.com/Anell-dev/Reto-1-de-FrontendMentor)
-- Sitio: [https://anell-dev.github.io/Reto-1-de-FrontendMentor/](https://anell-dev.github.io/Reto-1-de-FrontendMentor/)
+- Aqui puedes ver mi solucion: [https://github.com/Anell-dev/Tarjeta-informativa-para-producto](https://github.com/Anell-dev/Tarjeta-informativa-para-producto)
+- Sitio: [https://anell-dev.github.io/Tarjeta-informativa-para-producto/](https://anell-dev.github.io/Tarjeta-informativa-para-producto/)
 
 ### Construido con
 
